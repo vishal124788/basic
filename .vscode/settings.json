@@ -3,5 +3,6 @@
         "stdbool.h": "c",
         "stdlib.h": "c",
         "assert.h": "c"
-    }
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
 }
